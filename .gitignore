@@ -1,0 +1,4 @@
+/www/*
+!/www/.gitkeep
+/dbfiles/*
+!/dbfiles/.gitkeep
